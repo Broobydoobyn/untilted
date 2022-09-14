@@ -1,0 +1,41 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10px;
+    background-color: red;
+    font-color:white;
+    text-decoration: none;
+    
+}
+.topnav {
+  background-color:grey;
+  text-decoration: none;
+  text-color: white;
+  font-size:20px;
+  border: solid;
+  border: 2px;
+}
+
+.nav:hover {
+  background-color:lightgrey;
+}
+
+.nav {
+  background-color:grey;
+  text-decoration-style: none;
+  text-color: white;
+  font-size:20px;
+  border: solid;
+  border: 2px;
+}
+
+.full_body_section {
+  width:100%;
+  
+}
+#heading {
+  background-color: blue;
+  align-content: center;
+}
+#heading p {
+  margin: 0 auto;
+}
